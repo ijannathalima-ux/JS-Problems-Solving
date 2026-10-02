@@ -79,3 +79,5 @@ function countProperties(values) {
 }
 
 console.log(countProperties([4, 0, -2, 0, 7]))
+console.log(countProperties([-4, 3, 6, -7, 0]))
+console.log(countProperties([-5, 0, 3, -4, 1]))
